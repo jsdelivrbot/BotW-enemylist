@@ -2,6 +2,9 @@
   "name": "botw-enemylist",
   "version": "1.0.0",
   "description": "A list of information of baddies of Breath of the Wild",
+  "engines": {
+    "node": "6.11.1"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
